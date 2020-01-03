@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 	int numberDogs = 2;
-	cout << "Number of Dogs : " << numberDogs <<endl; // prints !!!Hello World!!!
+	cout << "Number of Dogs : " << numberDogs <<endl;
 	return 0;
 }
 
