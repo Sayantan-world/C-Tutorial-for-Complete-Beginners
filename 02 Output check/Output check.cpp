@@ -15,3 +15,11 @@ int main() {
 	cout << "Second sentence" << endl; // prints !!!Hello World!!!
 	return 0;
 }
+
+/*
+OUTPUT
+============================================================================
+Starting.....First sentence
+Second sentence
+============================================================================
+*/
