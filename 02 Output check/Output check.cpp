@@ -12,7 +12,7 @@ using namespace std;
 int main() {
 	cout << "Starting....." << flush;
 	cout << "First sentence" << endl;
-	cout << "Second sentence" << endl; // prints !!!Hello World!!!
+	cout << "Second sentence" << endl; 
 	return 0;
 }
 
