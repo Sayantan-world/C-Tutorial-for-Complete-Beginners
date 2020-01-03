@@ -15,7 +15,7 @@ int main() {
 	string text2 = "Sayantan";
 	string text3 = text1 + text2;
 
-	cout << text3 << endl; // prints !!!Hello World!!!
+	cout << text3 << endl;
 	return 0;
 }
 /*
