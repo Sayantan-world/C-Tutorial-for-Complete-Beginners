@@ -14,6 +14,13 @@ int main() {
 	cout << "Enter your name: " << flush;
 	cin >> name;
 
-	cout << "Welcome " << name << endl; // prints !!!Hello World!!!
+	cout << "Welcome " << name << endl;
 	return 0;
 }
+/*
+OUTPUT
+============================================================================
+Enter your name: Sayantan
+Welcome Sayantan
+============================================================================
+*/
